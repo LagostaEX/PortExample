@@ -5,7 +5,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Exemplo de portifólio**
 | :label: Tecnologias | HTML, CSS
-| :rocket: URL         | https://exemplo-portifolio-lilac.vercel.app/index.html/
+| :rocket: URL         | https://exemplo-portifolio-lilac.vercel.app/
 
 ## Visualização
 
